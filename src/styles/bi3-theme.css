@@ -1,0 +1,37 @@
+/* BI3 Brand Colors and Theme Overrides */
+
+:root {
+  /* BI3 Blue - Primary Brand Color (from logo) */
+  --bi3-blue: #2d6bdb;
+  --bi3-blue-hover: #1e4fbf;
+  --bi3-blue-light: #e6eeff;
+
+  /* Light Theme Colors */
+  --bi3-bg-light: #fafbfc;
+  --bi3-surface-light: #ffffff;
+  --bi3-text-primary-light: #0f1419;
+  --bi3-text-secondary-light: #6b7280;
+  --bi3-text-muted-light: #9ca3af;
+  --bi3-divider-light: #f0f2f5;
+
+  /* Status Colors */
+  --bi3-variance-negative: #ef4444;
+  --bi3-variance-positive: #10b981;
+  --bi3-warning: #f59e0b;
+  --bi3-neutral: #6b7280;
+}
+
+.dark {
+  /* Dark Theme Colors */
+  --bi3-bg-dark: #0f1419;
+  --bi3-surface-dark: #1a1f2e;
+  --bi3-text-primary-dark: #f9fafb;
+  --bi3-text-secondary-dark: #9ca3af;
+  --bi3-text-muted-dark: #6b7280;
+  --bi3-divider-dark: #2d3748;
+
+  /* Brighter BI3 Blue for dark mode */
+  --bi3-blue-dark-mode: #5b8feb;
+  --bi3-variance-negative-dark: #ef4444;
+  --bi3-variance-positive-dark: #10b981;
+}

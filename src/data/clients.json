@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sydney-airport",
+    "name": "Sydney Airport",
+    "description": "Sydney Airport Ltd - Major aviation hub",
+    "status": "In Progress"
+  },
+  {
+    "id": "bi3-india",
+    "name": "BI3 - India",
+    "description": "BI3 India Training & Development Program",
+    "status": "In Progress"
+  },
+  {
+    "id": "real-pet-food",
+    "name": "Real Pet Food",
+    "description": "Real Pet Food Company",
+    "status": "Active"
+  },
+  {
+    "id": "cotality",
+    "name": "Cotality",
+    "description": "Cotality - Data and Analytics Services",
+    "status": "Active"
+  },
+  {
+    "id": "changi-airport",
+    "name": "Changi Airport",
+    "description": "Changi Airport Singapore",
+    "status": "Active"
+  },
+  {
+    "id": "uniting",
+    "name": "Uniting",
+    "description": "Uniting Community Services",
+    "status": "Active"
+  },
+  {
+    "id": "infra-australia",
+    "name": "Infra Australia",
+    "description": "Infrastructure Australia",
+    "status": "Active"
+  },
+  {
+    "id": "levande",
+    "name": "Levande",
+    "description": "Levande Solutions",
+    "status": "Active"
+  },
+  {
+    "id": "hungry-jacks",
+    "name": "Hungry Jacks",
+    "description": "Hungry Jacks Australia",
+    "status": "Active"
+  }
+]

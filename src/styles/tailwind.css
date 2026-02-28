@@ -1,0 +1,17 @@
+@import "tailwindcss" source(none);
+@source '../**/*.{js,ts,jsx,tsx}';
+
+@theme {
+  --color-bi3-blue: #2d6bdb;
+  --color-bi3-blue-hover: #1e4fbf;
+  --color-bi3-blue-light: #e6eeff;
+  --color-bi3-bg-light: #fafbfc;
+  --color-bi3-surface-light: #ffffff;
+  --color-bi3-text-primary: #0f1419;
+  --color-bi3-text-secondary: #6b7280;
+  --color-bi3-text-muted: #9ca3af;
+  --color-bi3-divider: #f0f2f5;
+  --color-bi3-success: #10b981;
+  --color-bi3-warning: #f59e0b;
+  --color-bi3-error: #ef4444;
+}
